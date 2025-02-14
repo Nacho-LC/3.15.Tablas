@@ -1,0 +1,21 @@
+table.rojo {
+    border: red 1px solid;
+
+}
+
+td.azul {
+    border: blue 2px solid;
+}
+
+table.verde {
+    border: green 2px solid;
+}
+
+td.verde {
+    border: green 2px solid;
+}
+
+table.grande {
+    width: 40%;
+    height: auto;
+}
